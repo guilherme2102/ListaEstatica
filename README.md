@@ -1,2 +1,3 @@
 # Lista Estática
-Exemplo base da Lista Estática (versão completa terminada na aula 1)
+Exemplo base da Lista Estática (versão propositalmente errada - por enquanto).
+A versão correta será apresentada durante a aula!
